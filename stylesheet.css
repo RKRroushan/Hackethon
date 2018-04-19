@@ -1,0 +1,85 @@
+                                              /*Designed and Developed by Roushan*/
+body{
+  margin: 0;
+  padding: 0;
+  background: url(library_style_table_books_wooden_39317_1366x768.jpg) no-repeat;
+  background-size: cover;
+  color:rgba(0,0,0, 0.5);
+}
+
+
+.box{
+	background-color:rgba(0,0,0, 0.5);
+	color:black;
+	background-size:cover;
+    width:100%;
+    height:100%;	
+	
+}
+
+.font1{
+	
+	background:url(Libraries_Lib_BackgroundReading_Header.jpg) no-repeat;
+	background-position:center;
+	width:100%;
+	height:100%;
+	font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size:50px;
+    color:#000000;
+    
+}
+
+ 
+.navbar{
+	background-color:#A9A9A9;
+	font-weight:bold;
+	font-size:18px;
+	font-family:New Century Schoolbook, TeX Gyre Schola, serif;
+	width:900px;
+	margin-left:210px;
+	
+}
+.dropdown-menu>li>a {
+    display: block;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #3799ab;
+}
+ 
+ .navbar-default .navbar-nav>li>a {
+    color: #a21ab9;
+}
+	
+
+.navbar-default .navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom:15px;
+	line-height: 20px;
+	text-align:center;
+}
+.topnav li a{
+
+    margin: 5px 10px 0px 10px; 
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+.designing{
+	 color:#fff;
+	 text-decoration:none;
+	
+}
+.Home{
+	 color:#fff;
+	 font-size:25px;
+	
+	
+}
+.para{
+	color:#fff;
+	
+}
